@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "title":"../components/title/index",
+    "list":"../components/list/index",
+    "list-image":"../components/listImage/index"
+  }
+}

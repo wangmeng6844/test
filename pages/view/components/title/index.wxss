@@ -1,0 +1,36 @@
+/* pages/components/title/index.wxss */
+.list{
+  width: 100%;
+  height: 300rpx;
+  background: #fff;
+  margin-top: 20rpx;
+}
+.title{
+  width: 100%;
+  height: 88rpx;
+  line-height: 88rpx;
+  text-align: center;
+  border-bottom: 1px solid #eee;
+}
+.list-box{
+  width: 100%;
+  height: 200rpx;
+  display: flex;
+}
+.dl{
+  width: 25%;
+  height: 100%;
+}
+.dt{
+  width: 100%;
+  height: 150rpx;
+  box-sizing: border-box;
+  padding: 20rpx 40rpx;
+}
+.dd{
+  width: 100%;
+  height: 50rpx;
+  line-height: 50rpx;
+  text-align: center;
+  font-size: 30rpx;
+}

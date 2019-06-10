@@ -1,0 +1,13 @@
+<!--pages/components/title/index.wxml-->
+<view class='list'>
+  <view class='title'>-服务项目-</view>
+  <view class='list-box'>
+      <view class='dl' wx:for="{{list}}" wx:key="{{index}}">
+        <view class='dt'>
+          <image style="width: 100%; height:100%;" mode="{{item.mode}}" src="{{item.img}}"></image>
+        </view>
+        <view class='dd'>{{item.title}}</view>
+      </view>
+  </view>
+
+</view>

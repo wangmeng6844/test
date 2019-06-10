@@ -1,0 +1,16 @@
+<!--pages/components/list/index.wxml-->
+<view class='list'>
+    <view class='title'>我们为您提供专业设计解决方案</view>
+    <view class='text'>
+      通过研究商业模式来定义品牌提供优秀的品牌整合解决方案，令品牌长远发展，更具竞争力新成立企业，需要有好的标志，好的品牌形象有助于提升企业整体竞争力，公司专注于新成立品牌规划，将为你的企业品牌进行整体的规划与设计，努力为您打造坚实品牌基础。
+</view>
+<view class='ul'>
+  <view class='li'>
+    <image src="http://12.s81i.faiusr.com/4/104/AFEIDBAEGAAgpojv0wUogo7_6QIwuAI4rgFAaA.png"></image>
+  </view>
+   <view class='li'>
+    <image src="http://12.s81i.faiusr.com/4/104/AFEIDBAEGAAgoYjv0wUo7MKZ_wUwuAI4rgFAaA.png"></image>
+  </view>
+</view>
+
+</view>

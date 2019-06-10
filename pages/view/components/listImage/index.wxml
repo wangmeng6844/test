@@ -1,0 +1,18 @@
+<!--pages/components/listImage/index.wxml-->
+<view class='img-list'>
+   <view class='title'>-案例分析-</view>
+   <view class='ul'>
+  <view class='li'>
+    <image class="image"src="http://12.s81i.faiusr.com/4/104/AFEIDBAEGAAgpojv0wUogo7_6QIwuAI4rgFAaA.png"></image>
+  </view>
+   <view class='li'>
+    <image src="http://12.s81i.faiusr.com/4/104/AFEIDBAEGAAgoYjv0wUo7MKZ_wUwuAI4rgFAaA.png"></image>
+  </view>
+   <view class='li'>
+    <image src="http://12.s81i.faiusr.com/4/104/AFEIDBAEGAAgoYjv0wUo7MKZ_wUwuAI4rgFAaA.png"></image>
+  </view>
+   <view class='li'>
+    <image src="http://12.s81i.faiusr.com/4/104/AFEIDBAEGAAgoYjv0wUo7MKZ_wUwuAI4rgFAaA.png"></image>
+  </view>
+</view>
+</view>

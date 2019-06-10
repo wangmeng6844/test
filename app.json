@@ -1,0 +1,15 @@
+{
+  "pages": [
+    "pages/view/demo",
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/view/demo/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "sitemapLocation": "sitemap.json"
+}

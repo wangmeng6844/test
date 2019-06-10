@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+      "g-list": "/components/gsd-ui/g-list/index",
+      "g-cell": "/components/gsd-ui/g-cell/index"
+  }
+}
